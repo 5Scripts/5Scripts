@@ -5,7 +5,7 @@
 
 <h3 align="left">🌐 My Socials:</h3>
 <p align="left">
-  <a href="https://www.youtube.com/c/5scripts" target="blank">
+  <a href="https://www.youtube.com/@5scripts" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="5scripts" height="30" width="40" />
   </a>
   <a href="https://discord.gg/63hyffz3m6" target="blank">
