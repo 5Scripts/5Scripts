@@ -44,28 +44,25 @@
 
 ### 🌐 My Socials
 
-## ME
+### ME
 
-<a href="https://www.instagram.com/matz_solutions" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="35" width="45"/>
-</a>
-
-<a href="https://discord.gg/JRPZeMW8Jh" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" height="35" width="45"/>
-</a>
-
-<a href="https://dribbble.com/matzik" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="35" width="45"/>
-</a>
+<p>
+  <a href="https://www.instagram.com/matz_solutions" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="35" width="45"/></a>
+</p>
+<p>
+  <a href="https://discord.gg/JRPZeMW8Jh" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="35" width="45"/></a>
+</p>
+<p>
+  <a href="https://dribbble.com/matzik" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="35" width="45"/></a>
+</p>
 
 ---
 
-## Five Scripts - FiveM Scripts
+### Five Scripts - FiveM Scripts
 
-<a href="https://www.youtube.com/@5scripts" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="35" width="45"/>
-</a>
-
-<a href="https://discord.gg/QQCdcDuTDt" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" height="35" width="45"/>
-</a>
+<p>
+  <a href="https://www.youtube.com/@5scripts" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="35" width="45"/></a>
+</p>
+<p>
+  <a href="https://discord.gg/QQCdcDuTDt" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="35" width="45"/></a>
+</p>
