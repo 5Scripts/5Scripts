@@ -44,7 +44,7 @@
 
 ### 🌐 My Socials
 
-### ME
+### Matz.
 
 <p>
   <a href="https://www.instagram.com/matz_solutions" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="35" width="45"/></a>
