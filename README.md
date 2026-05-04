@@ -37,14 +37,13 @@
 
 ### 📌 Current Focus
 - Building SaaS products  
-- FiveM scripting systems  
-- Indie game development in Unreal Engine 5  
+- Indie game development
 - Expanding full-stack skills with scalable apps  
 
 ---
 
 ### 🌐 My Socials
-<p align="left">
+<p align="flex">
   <a href="https://www.youtube.com/@5scripts" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
   </a>
