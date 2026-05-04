@@ -1,65 +1,59 @@
 <h1 align="center">Hi 👋, I'm Matz</h1>
 <h3 align="center">Passionate Full-Stack & Game Developer from Poland 🇵🇱</h3>
 
----
-
-### 🚀 About Me
-- 💻 Passionate Developer focused on web & game development  
-- 🎮 Creating systems for FiveM & Unreal Engine projects  
-- 🌱 Always learning new technologies and improving my skills  
-- ⚡ I enjoy building real, working products instead of just tutorials  
+<p align="center">
+  Building web apps, FiveM systems and indie games 🎮
+</p>
 
 ---
 
-### 🧠 Tech Stack
+## 🚀 About Me
 
-#### 🌐 Frontend
-<p>
+- 💻 Full-Stack Developer (React / Next.js / Node.js)
+- 🎮 FiveM & Unreal Engine developer
+- 🧠 Focused on building real, scalable products (SaaS & games)
+- ⚡ Always learning, always building
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
 </p>
 
-#### 🛠️ Backend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,supabase" />
 </p>
 
-#### 🎮 Game Dev
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=unreal,unity,lua" />
 </p>
 
-#### 💾 Tools & Others
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
 
-### 📌 Current Focus
-- Building SaaS products  
+## 📌 Current Focus
+
+- SaaS development (B2B tools & automation)
 - Indie game development
-- Expanding full-stack skills with scalable apps  
+- Building scalable full-stack apps
 
 ---
 
-### 🌐 My Socials
+## 🌐 Connect with me
 
-<table>
-  <tr>
-    <td>
-      <a href="https://www.youtube.com/@5scripts">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://discord.gg/63hyffz3m6">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://dribbble.com/">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="30" width="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.youtube.com/@5scripts" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="35" width="45"/>
+  </a>
+  <a href="https://discord.gg/63hyffz3m6" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="35" width="45"/>
+  </a>
+  <a href="https://dribbble.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="35" width="45"/>
+  </a>
+</p>
