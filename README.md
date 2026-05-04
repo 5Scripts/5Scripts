@@ -44,22 +44,22 @@
 
 ### 🌐 My Socials
 
-<p align="left">
-  <span style="display:inline-block; margin-right:10px;">
-    <a href="https://www.youtube.com/@5scripts" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
-    </a>
-  </span>
-
-  <span style="display:inline-block; margin-right:10px;">
-    <a href="https://discord.gg/63hyffz3m6" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
-    </a>
-  </span>
-
-  <span style="display:inline-block;">
-    <a href="https://dribbble.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="30" width="40" />
-    </a>
-  </span>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/@5scripts">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://discord.gg/63hyffz3m6">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://dribbble.com/">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="30" width="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
