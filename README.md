@@ -44,13 +44,26 @@
 
 ### 🌐 My Socials
 
+<p style="display:inline-block;">
+  <a href="https://www.youtube.com/@5scripts" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="35" width="45"/>
+  </a>
+</p>
 
-<p>
-  <a href="https://www.youtube.com/@5scripts" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="35" width="45"/></a>
+<p style="display:inline-block;">
+  <a href="https://discord.gg/63hyffz3m6" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="35" width="45"/>
+  </a>
 </p>
-<p>
-  <a href="https://discord.gg/63hyffz3m6" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="35" width="45"/></a>
+
+<p style="display:inline-block;">
+  <a href="https://dribbble.com/matzik" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="35" width="45"/>
+  </a>
 </p>
-<p>
-  <a href="https://dribbble.com/matzik" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="35" width="45"/></a>
+
+<p style="display:inline-block;">
+  <a href="https://www.instagram.com/matz_solutions" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="45"/>
+  </a>
 </p>
